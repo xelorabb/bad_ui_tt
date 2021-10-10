@@ -1,24 +1,12 @@
-# bad_ui
+# Bad UI/UX TikTok
 
-## Project setup
+### TikToks
+##### Phone Numbers
+* [Part 1](https://www.tiktok.com/@xelorabb/video/7014445833928166661)
+
+### Project setup
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Server runs on `localhost:8080`

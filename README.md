@@ -6,6 +6,7 @@
 * [Part 2](https://www.tiktok.com/@xelorabb/video/7014752454864588038)
 * [Part 3](https://www.tiktok.com/@xelorabb/video/7014896204567956741)
 * [Part 4](https://www.tiktok.com/@xelorabb/video/7015829180155776262)
+* [Part 5](https://www.tiktok.com/@xelorabb/video/7016228000601574661)
 
 ### Project setup
 ```

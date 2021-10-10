@@ -1,6 +1,6 @@
 <template>
   <div class="container px-4 py-4">
-    <TabGroup :defaultIndex="3">
+    <TabGroup :defaultIndex="2">
       <TabList class="p-2 bg-green-500">
         <Tab class="text-white text-lg font-bold px-2">
           Bad UI/UX
@@ -26,11 +26,13 @@
 <script>
   import { shallowRef } from 'vue'
   import PhoneNumbers from './components/PhoneNumbers.vue'
+  import Volumes from './components/Volumes.vue'
 
   export default {
     name: 'App',
     components: {
       PhoneNumbers,
+      Volumes
     },
     data() {
       return {
@@ -39,6 +41,11 @@
             title: 'Phone Numbers',
             icon: 'phone',
             component: shallowRef(PhoneNumbers)
+          },
+          {
+            title: 'Volumes',
+            icon: 'volume-up',
+            component: shallowRef(Volumes)
           },
         ]
       }

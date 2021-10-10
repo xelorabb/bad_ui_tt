@@ -8,6 +8,10 @@
 * [Part 4](https://www.tiktok.com/@xelorabb/video/7015829180155776262)
 * [Part 5](https://www.tiktok.com/@xelorabb/video/7016228000601574661)
 
+##### Volumes
+* [Part 1](https://www.tiktok.com/@xelorabb/video/7016447651042331909)
+
+
 ### Project setup
 ```
 npm install

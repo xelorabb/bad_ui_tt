@@ -27,12 +27,14 @@
   import { shallowRef } from 'vue'
   import PhoneNumbers from './components/PhoneNumbers.vue'
   import Volumes from './components/Volumes.vue'
+  import Names from './components/Names.vue'
 
   export default {
     name: 'App',
     components: {
       PhoneNumbers,
-      Volumes
+      Volumes,
+      Names
     },
     data() {
       return {
@@ -46,6 +48,11 @@
             title: 'Volumes',
             icon: 'volume-up',
             component: shallowRef(Volumes)
+          },
+          {
+            title: 'Names',
+            icon: 'user',
+            component: shallowRef(Names)
           },
         ]
       }

@@ -12,6 +12,8 @@
 * [Part 1](https://www.tiktok.com/@xelorabb/video/7016447651042331909)
 * [Part 2](https://www.tiktok.com/@xelorabb/video/7017134751031004422)
 
+##### Names
+* [Part 1](https://www.tiktok.com/@xelorabb/video/7017898685807725830)
 
 ### Project setup
 ```
